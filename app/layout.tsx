@@ -54,7 +54,7 @@ export default function RootLayout({
       <head>
         <title>
           {title +
-            `Frederik Barbre - Frontend/Fullstack ${
+            `Djordje Nikitovic - Frontend/Fullstack ${
               language === 'en' ? 'Developer' : 'Udvikler'
             } & Designer`}
         </title>

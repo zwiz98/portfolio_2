@@ -28,7 +28,7 @@ export default function Navbar() {
               onClick={() => setIsActive(false)}
               className="font-bold text-[22px] tracking-[1.32px] w-max"
             >
-              FREDERIK BARBRÉ
+              Djordje Nikitovic
             </Link>
           </div>
           <MenuToggle isActive={isActive} setIsActive={setIsActive} />
